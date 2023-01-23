@@ -3,6 +3,17 @@
 Provides a way to handle results in a "rust" like way. This is a very simple
 implementation of the Result type in rust.
 
+## Installation
+
+To install this project, simply run the following command:
+
+```bash
+> pip install git+https://github.com/ivario123/pyresult
+```
+
+The resulting module will be called `result`.
+There is no PyPI package, if you need one, look at [result](https://pypi.org/project/result/) that is already published. This package has no intention to replace that one, I was not aware of it when I started this project.
+
 ## Usage
 
 ```python
