@@ -1,0 +1,12 @@
+[project]
+authors = [{ name = "Ivar Jönsson", email = "ivajns-9@student.ltu.se" }]
+description = "A library for handling results in Python"
+name = "pyresult"
+version = "0.1.0"
+readme = "README.md"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+]

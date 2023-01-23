@@ -1,0 +1,8 @@
+# Ignore build artifacts
+# Ignore runtime artifacts
+# Ignore venv artifacts
+*egg*
+*wheel*
+*build*
+*env*
+*__pycache__*
