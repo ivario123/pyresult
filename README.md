@@ -19,7 +19,7 @@ There is no PyPI package, if you need one, look at [result](https://pypi.org/pro
 ```python
 from result import Result, Ok, Error, unwrap
 
-def divide(a, b) -> unwrap:
+def divide(a, b) -> Result:
     if b == 0:
         return Error("Cannot divide by zero")
     return Ok(a / b)
